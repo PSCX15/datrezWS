@@ -1,0 +1,4 @@
+<launch>
+  <param name="maestroPath" value="/dev/tyACM0" />
+  <param name="GPSPath" value=["/dev/ttyUSB0", "/dev/ttyUSB1"] />
+</launch>
